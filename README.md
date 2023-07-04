@@ -15,7 +15,7 @@ To explore the Discord Clone, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/discord-clone.git
+   git clone https://github.com/abhixsliet/discord-clone.git
    ```
 
 2. Navigate to the project directory:
@@ -27,6 +27,24 @@ To explore the Discord Clone, follow these steps:
 3. Open the `index.html` file in your preferred web browser.
 
 4. Interact with the [Discord Clone](https://abhixsliet.github.io/discord-clone/) interface, navigate between chat channels, and explore the design.
+
+## Running the Application
+
+To run the Razorpay Clone locally using npm, follow these steps:
+
+1. Install the project dependencies:
+
+   ```
+   npm install
+   ```
+
+2. Start the development server:
+
+   ```
+   npm start
+   ```
+
+   The application will be available at `http://localhost:5173`.
 
 ## Technologies Used
 
